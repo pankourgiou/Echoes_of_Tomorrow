@@ -1,0 +1,1 @@
+#A small game where your fragmented memories lead you to choices that make you who you are. You will have to copy paste the code and save it as an .html file on the same folder as Echoes.jpg  picture from issues folder, then double click on the .html file and you are ready to go! enjoy!
